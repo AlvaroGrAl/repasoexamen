@@ -10,7 +10,7 @@ package factorial;
  * @author jmllamasg
  */
 //houyyyyyyy
-//Ahora si que va
+//la ramaaaaaaaa
  
 public class Factorial {
     public static int calculo(int n){
