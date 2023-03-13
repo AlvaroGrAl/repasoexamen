@@ -9,8 +9,7 @@ package factorial;
  *
  * @author jmllamasg
  */
-//houyyyyyyy
-//la ramaaaaaaaa
+//Cambion hecho desde el cmd de linux
  
 public class Factorial {
     public static int calculo(int n){
